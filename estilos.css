@@ -1,0 +1,33 @@
+header {
+    background-color:rgb(255, 222, 131);
+    text-align: center;
+}
+
+nav {
+    background-color: slategrey;
+    text-align: center;
+    width:90% ;
+}
+
+
+.sect{
+    text-align: center;
+    background-color: skyblue;
+}
+
+footer{
+    background-color:rgb(255, 222, 131) ;
+}
+
+
+.am {
+    color: yellow;
+}
+
+.vi{
+    color: rebeccapurple;
+}
+
+img.derecha {
+    float: right;
+  }
